@@ -1,7 +1,4 @@
-# Soy Alejandro García
-
-Soy estudiante de Ingenieria Informatica en la ULL 
-
+###
 <!--
 **AlejandroGarciaBautista/AlejandroGarciaBautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
